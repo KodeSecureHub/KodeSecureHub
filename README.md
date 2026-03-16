@@ -1,23 +1,37 @@
-## Hi there 👋 It's me Kodeeswaran
+## Hi there 👋 I'm Kodeeswaran A S
 
-CyberSecurity Engineer 
+**Software Developer (Fresher) | Java | Selenium Automation | Cybersecurity Enthusiast**
+
 <img align="right" width="390" height="270" src="https://media.tenor.com/HyBTgHgCS9EAAAAC/anonymous-git.gif">
-- 🔭 Here's my [portfolio](https://kodi1234.neocities.org/portfolio/)                                                 
-- 🚀 Cybersecurity Enthusiast | Penetration Tester | Engineering Student
-- 💻 Passionate about problem-solving, system security, and innovation.
-- 📫 How to reach me **kodeeswaranas503@gmail.com**
-- 😄 Pronouns: HackKode
-- ⚡ Fun fact: **Hack ---> Code ---> Repeat**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/maverick__vibzz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-<a href="https://www.linkedin.com/in/kodeeswaran-a-s-65bbaa25a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberspartan" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthithehacker" height="30" width="40" /></a>
-</p>
-<h3 align="left">I Code In :</h3>
+
+- 🎓 Final-year B.Tech CSE student at Nehru Institute of Engineering and Technology (CGPA: 8.2)
+- 💻 Building projects in **Java, JDBC, MySQL** and **Selenium WebDriver automation**
+- 🔐 Cybersecurity Intern at **HackUp Technology** — explored web vulnerabilities and ethical hacking
+- 🌱 Currently learning **Spring Boot** and **Data Structures & Algorithms**
+- 🔭 Check out my [portfolio](https://kodi1234.neocities.org/portfolio/)
+- 📫 Reach me at **kodeeswaranofficial@gmail.com**
+- ⚡ Fun fact: I write code that tests code
+
+---
+
+### 🚀 Projects
+
+#### 🗂 Student Management System
+> Java · JDBC · MySQL
+
+A Java desktop application to manage student records using OOP principles (encapsulation, inheritance, polymorphism). Includes full CRUD operations via JDBC, normalised MySQL schema, and exception handling.
+
+#### 🤖 Web Automation Testing Framework
+> Selenium WebDriver · Java · TestNG
+
+End-to-end test automation framework built using the Page Object Model (POM) design pattern. Covers login flows, form submissions, and UI navigation using XPath and CSS selectors.
+
+---
+
+### 🛠 Skills
+
 <p>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
@@ -25,33 +39,16 @@ CyberSecurity Engineer
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
 </p>
-<h3 align="left">IDE and Tools I Use  :</h3>
-<p>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kodeeswaran-a-s-65bbaa25a/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/maverick__vibzz" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**KodeSecureHub/KodeSecureHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
