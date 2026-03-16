@@ -2,7 +2,7 @@
 
 **Software Developer (Fresher) | Java | Selenium Automation | Cybersecurity Enthusiast**
 
-<img align="right" width="200" height="200" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="coding panda"/>
+<img align="right" width="180" height="180" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="coding panda"/>
 
 <br>
 
