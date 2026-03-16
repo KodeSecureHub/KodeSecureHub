@@ -2,7 +2,7 @@
 
 **Software Developer (Fresher) | Java | Selenium Automation | Cybersecurity Enthusiast**
 
-<img align="right" width="250" height="250" src="https://media.tenor.com/mONAZxKUptIAAAAi/coding.gif">
+<img align="right" width="250" height="250" src="https://raw.githubusercontent.com/your-username/your-username/main/coding.gif">
 
 - 🎓 Final-year B.Tech CSE student at Nehru Institute of Engineering and Technology (CGPA: 8.2)
 - 💻 Building projects in **Java, JDBC, MySQL** and **Selenium WebDriver automation**
