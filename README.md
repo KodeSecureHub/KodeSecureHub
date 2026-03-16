@@ -2,15 +2,21 @@
 
 **Software Developer (Fresher) | Java | Selenium Automation | Cybersecurity Enthusiast**
 
-<img align="right" width="200" height="200" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="coding panda">
+<table>
+<tr>
+<td valign="middle" width="70%">
 
-- 🎓 Final-year B.Tech CSE student at Nehru Institute of Engineering and Technology (CGPA: 8.2)
 - 💻 Building projects in **Java, JDBC, MySQL** and **Selenium WebDriver automation**
 - 🔐 Cybersecurity Intern at **HackUp Technology** — explored web vulnerabilities and ethical hacking
-- 🌱 Currently learning **Spring Boot** and **Data Structures & Algorithms**
-- 🔭 Check out my [portfolio](https://kodi1234.neocities.org/portfolio/)
 - 📫 Reach me at **kodeeswaranofficial@gmail.com**
 - ⚡ Fun fact: I write code that tests code
+
+</td>
+<td valign="middle" align="center" width="30%">
+<img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" width="200" height="200" alt="coding panda"/>
+</td>
+</tr>
+</table>
 
 ---
 
