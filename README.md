@@ -2,13 +2,10 @@
 
 **Software Developer (Fresher) | Java | Selenium Automation | Cybersecurity Enthusiast**
 
-<img align="right" width="250" height="250" src="https://raw.githubusercontent.com/your-username/your-username/main/coding.gif">
+<img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" width="256" height="256" alt="a panda bear wearing sunglasses is sitting at a computer keyboard ." fetchpriority="high" style="max-width: 280px; background-color: unset;">
 
-- 🎓 Final-year B.Tech CSE student at Nehru Institute of Engineering and Technology (CGPA: 8.2)
 - 💻 Building projects in **Java, JDBC, MySQL** and **Selenium WebDriver automation**
 - 🔐 Cybersecurity Intern at **HackUp Technology** — explored web vulnerabilities and ethical hacking
-- 🌱 Currently learning **Spring Boot** and **Data Structures & Algorithms**
-- 🔭 Check out my [portfolio](https://kodi1234.neocities.org/portfolio/)
 - 📫 Reach me at **kodeeswaranofficial@gmail.com**
 - ⚡ Fun fact: I write code that tests code
 
@@ -48,7 +45,7 @@ End-to-end test automation framework built using the Page Object Model (POM) des
   <a href="https://www.linkedin.com/in/kodeeswaran-a-s-65bbaa25a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/maverick__vibzz" target="_blank">
+  <a href="https://instagram.com/kodii__26" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
