@@ -4,7 +4,6 @@
 
 <img align="right" width="200" height="200" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="coding panda"/>
 
-<br>
 
 - 💻 Building projects in **Java, JDBC, MySQL** and **Selenium WebDriver automation**
 - 🔐 Cybersecurity Intern at **HackUp Technology** — explored web vulnerabilities and ethical hacking
