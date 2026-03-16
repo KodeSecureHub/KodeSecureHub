@@ -6,7 +6,6 @@
 
 
 - 💻 Building projects in **Java, JDBC, MySQL** and **Selenium WebDriver automation**
-- 🔐 Cybersecurity Intern at **HackUp Technology** — explored web vulnerabilities and ethical hacking
 - 📫 Reach me at **kodeeswaranofficial@gmail.com**
 - 🌱 Currently learning **AI** and **Data Structures & Algorithms**
 - ⚡ Fun fact: I write code that tests code
