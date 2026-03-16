@@ -2,7 +2,7 @@
 
 **Software Developer (Fresher) | Java | Selenium Automation | Cybersecurity Enthusiast**
 
-<img align="right" width="190" height="220" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="coding panda"/>
+<img align="right" width="190" height="250" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="coding panda"/>
 
 
 - 💻 Building projects in **Java, JDBC, MySQL** and **Selenium WebDriver automation**
