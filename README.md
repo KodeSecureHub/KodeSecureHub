@@ -31,8 +31,6 @@ End-to-end test automation framework built using the Page Object Model (POM) des
 
 <p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
@@ -44,7 +42,7 @@ End-to-end test automation framework built using the Page Object Model (POM) des
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kodeeswaran-a-s-65bbaa25a/" target="_blank">
+  <a href="https://www.linkedin.com/in/kodeeswaran-a-s/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/kodii__26" target="_blank">
