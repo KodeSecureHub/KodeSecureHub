@@ -1,17 +1,34 @@
-## Hi there 👋 I'm Kodeeswaran A S
+<h2>Hi there 👋 I'm Kodeeswaran A S</h2>
 
-**Software Developer (Fresher) | Java | AI | Selenium Automation | Cybersecurity Enthusiast**
+<h3>Software Developer (Fresher) | Java | AI | Selenium Automation | Cybersecurity Enthusiast</h3>
 
-<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BxdnY0eDNscXNwbDc0OHVmam91MnpuOHozeTF2Y2F4NWM0bjh1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" alt="Coding Animation"/>
+<table>
+<tr>
+<td width="70%" valign="top">
 
-- 💻 Building projects in **Java, Python, AI, and Selenium Automation**
-- 🤖 Exploring **Generative AI, LLM APIs, and AI-powered applications**
-- 🌱 Currently learning **AI and Data Structures & Algorithms**
-- 🔐 Interested in **Secure Coding and Cybersecurity**
-- 📫 Reach me at **kodeeswaranofficial@gmail.com**
-- ⚡ Fun fact: I write code that tests code
+<ul>
+<li>💻 Building projects in <b>Java, Python, AI, and Selenium Automation</b></li>
+<li>🤖 Exploring <b>Generative AI, LLM APIs, and AI-powered applications</b></li>
+<li>🌱 Currently learning <b>AI and Data Structures & Algorithms</b></li>
+<li>🔐 Interested in <b>Secure Coding and Cybersecurity</b></li>
+<li>📫 Reach me at <b>kodeeswaranofficial@gmail.com</b></li>
+<li>⚡ Fun fact: I write code that tests code</li>
+</ul>
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img width="250"
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BxdnY0eDNscXNwbDc0OHVmam91MnpuOHozeTF2Y2F4NWM0bjh1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"
+alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ### 🚀 Projects
 
