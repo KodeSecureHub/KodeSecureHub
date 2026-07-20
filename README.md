@@ -2,7 +2,7 @@
 
 **Software Developer (Fresher) | Java | AI | Selenium Automation | Cybersecurity Enthusiast**
 
-<img align="right" width="200" height="200" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="coding panda"/>
+<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BxdnY0eDNscXNwbDc0OHVmam91MnpuOHozeTF2Y2F4NWM0bjh1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" alt="Coding Animation"/>
 
 - 💻 Building projects in **Java, Python, AI, and Selenium Automation**
 - 🤖 Exploring **Generative AI, LLM APIs, and AI-powered applications**
