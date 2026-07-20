@@ -4,7 +4,7 @@
 
 <img align="right" width="200" height="200" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="coding panda"/>
 
-- 💻 Building projects in **Java, Python, AI, MySQL, and Selenium Automation**
+- 💻 Building projects in **Java, Python, AI, and Selenium Automation**
 - 🤖 Exploring **Generative AI, LLM APIs, and AI-powered applications**
 - 🌱 Currently learning **AI and Data Structures & Algorithms**
 - 🔐 Interested in **Secure Coding and Cybersecurity**
@@ -22,15 +22,12 @@ An AI-powered secure coding assistant that helps developers generate security-aw
 
 🔗 **GitHub:** https://github.com/KodeSecureHub/SecureDev-AI
 
-#### 🗂 Student Management System
-> Java · JDBC · MySQL
-
-A Java desktop application to manage student records using OOP principles (encapsulation, inheritance, polymorphism). Includes full CRUD operations via JDBC, normalised MySQL schema, and exception handling.
-
 #### 🤖 Web Automation Testing Framework
 > Selenium WebDriver · Java · TestNG
 
-End-to-end test automation framework built using the Page Object Model (POM) design pattern. Covers login flows, form submissions, and UI navigation using XPath and CSS selectors.
+An end-to-end web automation testing project built using Selenium WebDriver, Java, and TestNG. Automates common web application testing scenarios including UI interactions, form handling, navigation, and element validation using XPath and CSS selectors.
+
+🔗 **GitHub:** https://github.com/KodeSecureHub/automationn-project
 
 ---
 
@@ -49,7 +46,7 @@ End-to-end test automation framework built using the Page Object Model (POM) des
 
 **Technologies & Tools**
 
-`Java` · `Python` · `JDBC` · `MySQL` · `Selenium WebDriver` · `TestNG` · `Streamlit` · `Generative AI` · `Gemini API` · `Git` · `GitHub`
+`Java` · `Python` · `Selenium WebDriver` · `TestNG` · `MySQL` · `Streamlit` · `Generative AI` · `Gemini API` · `Prompt Engineering` · `Git` · `GitHub`
 
 ---
 
